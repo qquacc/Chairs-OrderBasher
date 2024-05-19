@@ -6,7 +6,7 @@
 #include "headers/drivers.h"
 using namespace std;
 
-const string VERSION = "0.0.0";
+const string VERSION = "1.0.0";
 
 int main() {
 
